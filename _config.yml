@@ -17,7 +17,7 @@ title: Daniel's Blog
 email: dannielgutierrez90@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I pretend to use this space, to share with you, my personal thoughts
-  about software development and other stuffs.
+  about software development and other stuffs <3. And somethings that i need to remeber :p
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dannielwhatever

@@ -2,7 +2,7 @@
 layout: post
 title:  "How did the cat get so fast?"
 date:   2018-08-18 13:10:05 -0400
-categories: development
+categories: opinion
 ---
 
 Jekyll also offers powerful support for code snippets:
