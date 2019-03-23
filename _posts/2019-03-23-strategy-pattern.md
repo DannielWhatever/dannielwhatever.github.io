@@ -67,6 +67,7 @@ const finder = new strategiesToFind[selectedStrategy]
 const result = finder.find(users, predicate);
 {% endhighlight %}
 
+
 #### Keep reading!
 
 - https://en.wikipedia.org/wiki/Strategy_pattern
