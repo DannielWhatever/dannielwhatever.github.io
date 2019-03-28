@@ -5,9 +5,6 @@ date:   2019-03-23 13:10:05 -0400
 categories: architecture designpatterns
 ---
 
-*Wena Cabres!
- There was a lot of time that i didnt write about patterns, principles or stuff like that, the last time was about SOLID. You can figure out. But im recovering from a hangover and i read in my feed something about strategy pattern, so, that was like i know about this, but i dnt even remembered that i used to knew it. So... talk is cheap, start walking.*
-
 #### TL;DR
 
 "Essentially, the strategy pattern allows us to change the behavior of an algorithm at runtime." (taken from [Baeldung](https://www.baeldung.com/java-strategy-pattern)) .-
